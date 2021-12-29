@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Layout Application</string>
+    <string name="profile_name">Tichaporn Leedee</string>
+    <string name="ID_name">623410005-4</string>
+    <string name="major_name">Computer Sci</string>
+    <string name="Profile_text">Profile</string>
+    <string name="email_name">Le_tichaporn@kkumail.com</string>
+    <string name="teacher_name">รศ.ดร.ชญาดา สุระวนิชกุล</string>
+    <string name="fb_name">Noon Nin</string>
+    <string name="ig_name">nunleedee</string>
+    <string name="line_name">nun1304.</string>
+    <string name="tal_name">082-6052476</string>
+    <string name="education01_name">ระดับมัธยมศึกษาตอนต้น</string>
+    <string name="education02_name">ระดับมัธยมศึกษาตอนปลาย</string>
+    <string name="education03_name">ระดับปริญญาตรี</string>
+    <string name="school_name">โรงเรียนชัยภูมิภักดีชุมพล</string>
+    <string name="uni_name">มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย</string>
+    <string name="address_name">241 ม.2 ต.รอบเมือง อ.เมืองชัยภูมิ จ.ชัยภูมิ 36000</string>
+</resources>
